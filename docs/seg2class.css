@@ -6,6 +6,7 @@ html {
   border-radius: 3px;
   background-color: #e2e8f0;
   background-clip: padding-box;
+  overflow-x: auto;
 }
 
 .card {
